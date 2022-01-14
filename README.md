@@ -1,4 +1,6 @@
-# RandomNumberMobileApp
+# Primeiros projetos em React Native
+
+## RandomNumberMobileApp
 Primeiro projeto em React Native
 
 Primeiro projeto em React Native, criado com o intuito de aprender a criar aplicações mobiles.
